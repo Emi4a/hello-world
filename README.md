@@ -1,4 +1,4 @@
 # hello-world
-ei ti go !
+ei ti go ?!!
 Zdraveite,
-az sum Iemu i ida ot Varna
+az sum Iemu i ida ot Varna evalata !
